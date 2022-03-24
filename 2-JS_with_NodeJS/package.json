@@ -1,0 +1,11 @@
+{
+  "name": "2-js_with_nodejs",
+  "version": "1.0.0",
+  "description": "Trying out NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Hilman F. Rakhmad",
+  "license": "ISC"
+}
